@@ -3,4 +3,4 @@
 ## alt bilgi
 deneme yazısı
 
-[loremipsum] (http://google.com)
+(http://google.com)
