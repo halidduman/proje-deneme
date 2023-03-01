@@ -1,6 +1,1 @@
-# deneme
-
-## alt bilgi
-deneme yazısı
-
-(http://google.com)
+[deneme google](http://google.com)
